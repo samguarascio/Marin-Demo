@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.2.4 — 2026-04-03
+## 1.2.4 — 2026-04-04
 - Refactor signup layout (lazy-load billing step).
 - **Known issue (demo):** checkout form mount race on `/signup` under slow networks.
 
